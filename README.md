@@ -1,1 +1,1 @@
-# NextJS-React-Query
+# NextJS
